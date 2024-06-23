@@ -1,4 +1,5 @@
 pandas
+numpy==1.22.4
 Flask
 joblib==1.4.2
 flask_cors
