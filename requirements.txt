@@ -2,3 +2,4 @@ pandas
 Flask
 joblib
 flask_cors
+Gunicorn
