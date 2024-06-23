@@ -1,0 +1,291 @@
+Food,Protein (g),Fat (g),Calories,Meal Time
+Oatmeal,5.0,3.5,68,Breakfast
+Greek Yogurt,10.0,0.7,59,Breakfast
+Scrambled Eggs,11.0,14.0,182,Breakfast
+Whole Wheat Toast with Peanut Butter,8.0,9.0,190,Breakfast
+Banana Smoothie,1.5,0.3,89,Breakfast
+Blueberry Muffins,2.1,9.7,138,Breakfast
+Grilled Chicken Breast,31.0,3.6,165,Lunch
+Quinoa Salad,4.0,1.9,120,Lunch
+Turkey Sandwich,24.0,1.0,135,Lunch
+Lentil Soup,9.0,0.8,116,Lunch
+Tuna Salad,25.0,1.0,108,Lunch
+Caprese Salad,18.0,16.0,221,Lunch
+Salmon Fillet,25.0,13.0,208,Dinner
+Beef Steak,25.0,20.0,271,Dinner
+Vegetable Stir Fry,2.8,0.2,30,Dinner
+Pork Chop,29.0,6.2,231,Dinner
+Spaghetti Carbonara,15.0,18.0,310,Dinner
+Roasted Turkey,29.0,7.0,135,Dinner
+Almonds,21.0,49.0,575,Snacks
+Cheese Cubes,25.0,33.0,400,Snacks
+Apple Slices,0.3,0.2,52,Snacks
+Greek Yogurt (Snack),10.0,0.7,59,Snacks
+Beef Jerky,33.0,1.0,410,Snacks
+Avocado Toast,4.0,10.0,150,Breakfast
+Berry Parfait,6.0,3.0,120,Breakfast
+Chia Seed Pudding,5.0,8.0,140,Breakfast
+Spinach and Feta Omelette,10.0,12.0,180,Breakfast
+Almond Butter Toast,4.0,9.0,160,Breakfast
+Chickpea Salad,7.0,5.0,130,Lunch
+Sushi Roll,6.0,1.0,150,Lunch
+Turkey Wrap,20.0,10.0,250,Lunch
+Cauliflower Rice Bowl,5.0,7.0,200,Lunch
+Beef Pho,24.0,6.0,350,Lunch
+Grilled Salmon with Asparagus,23.0,15.0,300,Dinner
+Chicken Caesar Salad,18.0,16.0,250,Dinner
+Vegan Lasagna,12.0,10.0,200,Dinner
+Pork Tenderloin with Roasted Vegetables,25.0,13.0,310,Dinner
+Shrimp Paella,20.0,10.0,240,Dinner
+Mixed Nuts,5.0,18.0,200,Snacks
+Hummus with Carrot Sticks,3.0,5.0,70,Snacks
+Dark Chocolate,2.0,12.0,150,Snacks
+Rice Cakes,2.0,0.0,35,Snacks
+Greek Yogurt with Honey,6.0,0.5,100,Snacks
+Edamame,11.0,6.0,120,Snacks
+Granola Bar,4.0,9.0,130,Snacks
+Cottage Cheese with Pineapple,12.0,5.0,180,Snacks
+Granola with Skim Milk,8.0,4.0,200,Breakfast
+Spinach Smoothie,5.0,1.0,100,Breakfast
+Egg White Omelette,10.0,0.0,80,Breakfast
+Cottage Cheese with Berries,12.0,2.0,180,Breakfast
+Whole Grain Pancakes,6.0,5.0,210,Breakfast
+Tomato Basil Soup,3.0,2.0,90,Lunch
+Chicken Caesar Wrap,20.0,8.0,300,Lunch
+Veggie Burger,15.0,7.0,250,Lunch
+Tofu Stir Fry,12.0,6.0,180,Lunch
+Ham and Cheese Sandwich,20.0,9.0,310,Lunch
+Lamb Curry,25.0,15.0,350,Dinner
+Vegetarian Chili,12.0,3.0,200,Dinner
+Fish Tacos,18.0,10.0,250,Dinner
+Pasta Primavera,10.0,4.0,220,Dinner
+BBQ Pork Ribs,24.0,20.0,400,Dinner
+Trail Mix,4.0,12.0,150,Snacks
+Greek Yogurt Parfait,10.0,1.0,120,Snacks
+Celery Sticks with Peanut Butter,4.0,8.0,120,Snacks
+Oatmeal Cookies,2.0,5.0,150,Snacks
+Cucumber Slices with Hummus,2.0,2.0,60,Snacks
+Pumpkin Seeds,7.0,13.0,180,Snacks
+Dried Fruit,1.0,0.0,100,Snacks
+Cheese and Crackers,7.0,9.0,150,Snacks
+French Toast,6.0,5.0,160,Breakfast
+Muesli with Yogurt,7.0,2.0,150,Breakfast
+Vegetable Frittata,12.0,10.0,200,Breakfast
+Protein Shake,20.0,1.0,120,Breakfast
+Bagel with Cream Cheese,5.0,6.0,250,Breakfast
+Roasted Vegetable Salad,3.0,7.0,150,Lunch
+Fish and Chips,15.0,10.0,400,Lunch
+Falafel Wrap,13.0,16.0,330,Lunch
+Chicken Noodle Soup,10.0,3.0,110,Lunch
+Steak Sandwich,25.0,14.0,350,Lunch
+Roast Beef with Vegetables,22.0,15.0,300,Dinner
+Spaghetti Bolognese,15.0,12.0,300,Dinner
+Vegetable Curry,4.0,10.0,250,Dinner
+Grilled Shrimp Salad,18.0,6.0,200,Dinner
+Ratatouille,3.0,9.0,110,Dinner
+Pistachios,6.0,13.0,160,Snacks
+Chocolate Milk,8.0,2.5,180,Snacks
+Fruit Salad,1.0,0.0,70,Snacks
+Cheese Sticks,7.0,6.0,80,Snacks
+Popcorn,3.0,1.0,90,Snacks
+Protein Bar,20.0,7.0,200,Snacks
+Roasted Chickpeas,7.0,3.0,120,Snacks
+Baked Sweet Potato Chips,2.0,5.0,150,Snacks
+Blueberry Oatmeal,6.0,2.0,150,Breakfast
+Avocado and Egg Sandwich,12.0,10.0,300,Breakfast
+Coconut Yogurt,2.0,9.0,130,Breakfast
+Rye Bread Toast,4.0,1.0,70,Breakfast
+Mixed Berry Smoothie,3.0,0.0,100,Breakfast
+Soba Noodles with Veggies,12.0,1.0,200,Lunch
+Grilled Cheese Sandwich,10.0,9.0,290,Lunch
+Lentil Salad,18.0,1.0,230,Lunch
+Beef Stir Fry,20.0,5.0,300,Lunch
+Chicken Quesadilla,25.0,15.0,400,Lunch
+Mushroom Risotto,5.0,10.0,250,Dinner
+Lemon Herb Chicken,24.0,5.0,190,Dinner
+Pumpkin Soup,3.0,5.0,90,Dinner
+Tofu Kebabs,14.0,10.0,200,Dinner
+Grilled Cod,20.0,3.0,190,Dinner
+Almond Butter Cups,4.0,16.0,180,Snacks
+Vegetable Chips,2.0,9.0,150,Snacks
+Peanut Butter Banana Bites,4.0,6.0,120,Snacks
+Cherry Tomatoes with Mozzarella,8.0,6.0,100,Snacks
+Seaweed Snacks,2.0,0.0,20,Snacks
+Macadamia Nuts,2.0,21.0,200,Snacks
+Kiwi Slices,1.0,0.0,40,Snacks
+Rice Cracker with Avocado,2.0,7.0,110,Snacks
+Pumpkin Spice Oatmeal,5.0,2.0,150,Breakfast
+Smoked Salmon Bagel,15.0,5.0,300,Breakfast
+Mango Chia Pudding,3.0,5.0,200,Breakfast
+Turkey Bacon,10.0,5.0,120,Breakfast
+Apple Cinnamon Porridge,4.0,2.0,150,Breakfast
+Chicken Avocado Salad,20.0,10.0,250,Lunch
+Black Bean Soup,8.0,1.0,120,Lunch
+Eggplant Parmesan,12.0,10.0,200,Lunch
+Shrimp Spring Rolls,10.0,2.0,150,Lunch
+Quiche Lorraine,14.0,15.0,250,Lunch
+Beef Bourguignon,25.0,15.0,350,Dinner
+Vegetable Paella,5.0,10.0,250,Dinner
+Pesto Pasta,10.0,12.0,300,Dinner
+Cauliflower Steak,5.0,1.0,150,Dinner
+Chicken Tikka Masala,22.0,10.0,300,Dinner
+Cashew Nuts,5.0,12.0,160,Snacks
+Yogurt Covered Raisins,1.0,5.0,120,Snacks
+Wasabi Peas,3.0,0.0,100,Snacks
+Sliced Bell Peppers with Hummus,2.0,3.0,70,Snacks
+Mixed Fruit Cup,1.0,0.0,50,Snacks
+Sunflower Seeds,6.0,14.0,180,Snacks
+Fig Bars,2.0,5.0,100,Snacks
+Olives,0.0,10.0,100,Snacks
+Kiwi Spinach Smoothie,4.0,1.0,120,Breakfast
+Baked Avocado Eggs,10.0,10.0,220,Breakfast
+Cranberry Walnut Oatmeal,5.0,4.0,180,Breakfast
+Ricotta Toast with Berries,9.0,5.0,150,Breakfast
+Almond Flour Pancakes,8.0,6.0,200,Breakfast
+Spicy Tuna Roll,20.0,5.0,300,Lunch
+Kale Caesar Salad,7.0,9.0,200,Lunch
+Mushroom Soup,3.0,2.0,100,Lunch
+Grilled Veggie Wrap,6.0,6.0,250,Lunch
+Crab Salad,12.0,1.0,130,Lunch
+Pork Loin with Apple Sauce,25.0,10.0,300,Dinner
+Stuffed Bell Peppers,15.0,12.0,350,Dinner
+Butternut Squash Risotto,4.0,8.0,200,Dinner
+Lamb Kebabs,22.0,10.0,270,Dinner
+Tilapia with Mango Salsa,21.0,1.0,180,Dinner
+Greek Yogurt with Almonds,10.0,7.0,180,Snacks
+Sliced Pear with Gorgonzola,3.0,5.0,120,Snacks
+Baked Kale Chips,2.0,1.0,50,Snacks
+Pumpkin Seed Brittle,5.0,10.0,150,Snacks
+Beef Jerky,33.0,1.0,410,Snacks
+Carrot Sticks with Almond Butter,4.0,9.0,140,Snacks
+Edamame with Sea Salt,11.0,6.0,120,Snacks
+Cashew Yogurt,4.0,8.0,100,Snacks
+Fig and Honey Yogurt,5.0,2.0,150,Breakfast
+Sweet Potato Hash,3.0,5.0,200,Breakfast
+Tofu Scramble,12.0,9.0,180,Breakfast
+Breakfast Quinoa Bowl,8.0,3.0,220,Breakfast
+Peanut Butter Banana Smoothie,6.0,8.0,210,Breakfast
+Caprese Sandwich,10.0,9.0,320,Lunch
+Spicy Black Bean Burger,12.0,5.0,260,Lunch
+Thai Beef Salad,15.0,7.0,250,Lunch
+Zucchini Noodles with Pesto,4.0,9.0,180,Lunch
+Chicken and Avocado Burrito,20.0,12.0,400,Lunch
+Maple Glazed Salmon,23.0,7.0,290,Dinner
+Vegetarian Moussaka,8.0,10.0,240,Dinner
+Duck Confit,28.0,22.0,350,Dinner
+Risotto with Asparagus,6.0,5.0,210,Dinner
+Beef Stroganoff,25.0,12.0,310,Dinner
+Roasted Almonds with Rosemary,6.0,15.0,170,Snacks
+Fruit Leather,0.0,0.0,45,Snacks
+Cucumber and Cream Cheese Sandwiches,2.0,4.0,105,Snacks
+Spiced Pumpkin Seeds,7.0,13.0,180,Snacks
+Olive Tapenade with Crackers,2.0,6.0,120,Snacks
+Cheddar Cheese Cubes,7.0,9.0,110,Snacks
+Guava Slices,1.0,0.0,68,Snacks
+Artichoke Dip with Pita Chips,3.0,5.0,150,Snacks
+Cherry Almond Oatmeal,5.0,4.0,180,Breakfast
+Egg and Spinach Muffins,10.0,8.0,200,Breakfast
+Greek Yogurt with Granola,7.0,3.0,130,Breakfast
+Avocado Spinach Smoothie,4.0,6.0,160,Breakfast
+Cottage Cheese with Pineapple,12.0,2.0,180,Breakfast
+Tuna Nicoise Salad,20.0,10.0,300,Lunch
+Roasted Turkey Wrap,25.0,5.0,350,Lunch
+Vegan Lentil Soup,9.0,1.0,180,Lunch
+Grilled Chicken Caesar Salad,30.0,7.0,350,Lunch
+Falafel Bowl,12.0,6.0,320,Lunch
+Pasta with Clam Sauce,14.0,5.0,280,Dinner
+Grilled Tofu Steaks,15.0,9.0,180,Dinner
+Seafood Paella,25.0,10.0,400,Dinner
+Beef and Broccoli Stir-Fry,17.0,7.0,300,Dinner
+Vegetarian Stuffed Zucchini,8.0,4.0,220,Dinner
+Roasted Sunflower Seeds,6.0,14.0,200,Snacks
+Cheese and Fruit Plate,7.0,9.0,210,Snacks
+Rice Cake with Avocado,2.0,7.0,120,Snacks
+Homemade Granola Bars,4.0,5.0,150,Snacks
+Baked Chickpeas,7.0,3.0,120,Snacks
+Chocolate Covered Strawberries,1.0,2.0,60,Snacks
+Zucchini Chips,1.0,9.0,100,Snacks
+Mixed Berry Cup,1.0,0.0,40,Snacks
+Pear and Gorgonzola Oatmeal,6.0,5.0,200,Breakfast
+Veggie Breakfast Tacos,10.0,7.0,250,Breakfast
+Strawberry Banana Quinoa Bowl,8.0,3.0,220,Breakfast
+Savory Mushroom Toast,5.0,6.0,180,Breakfast
+Almond Butter and Jelly Smoothie,4.0,8.0,200,Breakfast
+Roast Beef and Arugula Sandwich,20.0,9.0,320,Lunch
+Spicy Chickpea Stew,9.0,5.0,240,Lunch
+Miso Glazed Tofu Salad,12.0,7.0,260,Lunch
+Curried Chicken Salad,15.0,10.0,300,Lunch
+Pesto Pasta Salad,10.0,12.0,350,Lunch
+Grilled Swordfish with Lemon Herb Sauce,25.0,8.0,300,Dinner
+Vegan Mushroom Stroganoff,6.0,12.0,220,Dinner
+Spaghetti Squash with Meatballs,17.0,9.0,310,Dinner
+Moroccan Chicken Tagine,22.0,10.0,360,Dinner
+Eggplant Lasagna,12.0,7.0,280,Dinner
+Parmesan Garlic Popcorn,5.0,9.0,150,Snacks
+Fig and Ricotta Toast,6.0,5.0,180,Snacks
+Spiced Roasted Nuts,7.0,15.0,200,Snacks
+Apple Slices with Peanut Butter,4.0,8.0,150,Snacks
+Veggie Chips with Tzatziki Dip,2.0,6.0,120,Snacks
+Mango Coconut Chia Pudding,3.0,5.0,130,Snacks
+Mini Caprese Skewers,7.0,9.0,120,Snacks
+Avocado Chocolate Mousse,3.0,10.0,200,Snacks
+Coconut Rice Pudding,4.0,7.0,200,Breakfast
+Egg White and Veggie Frittata,10.0,5.0,150,Breakfast
+Blueberry Protein Shake,15.0,2.0,180,Breakfast
+Whole Wheat Banana Pancakes,5.0,3.0,210,Breakfast
+Avocado Egg Salad on Toast,12.0,10.0,250,Breakfast
+Grilled Portobello Mushroom Burger,8.0,5.0,180,Lunch
+Asian Chicken Salad,20.0,9.0,270,Lunch
+Quinoa and Black Bean Wrap,12.0,6.0,220,Lunch
+Tomato Basil Soup with Mozzarella,7.0,8.0,200,Lunch
+Turkey and Spinach Panini,25.0,10.0,350,Lunch
+Shrimp and Asparagus Stir-Fry,20.0,8.0,250,Dinner
+Lemon Garlic Roast Chicken,30.0,15.0,400,Dinner
+Vegan Chili,12.0,2.0,210,Dinner
+Pork Tenderloin with Roasted Apples,25.0,10.0,320,Dinner
+Baked Catfish with Sweet Potato Fries,18.0,9.0,290,Dinner
+Greek Yogurt with Mixed Nuts,10.0,8.0,180,Snacks
+Cantaloupe and Prosciutto Bites,9.0,6.0,120,Snacks
+Edamame with Chili Salt,11.0,4.0,130,Snacks
+Raspberry Almond Bites,4.0,7.0,150,Snacks
+Cucumber Slices with Herbed Cream Cheese,3.0,5.0,100,Snacks
+Mango Coconut Overnight Oats,5.0,6.0,210,Breakfast
+Spinach and Goat Cheese Omelet,12.0,10.0,200,Breakfast
+Cranberry Pecan Cereal,3.0,5.0,180,Breakfast
+Turkey Sausage Breakfast Burrito,15.0,8.0,250,Breakfast
+Peaches and Cream Smoothie,4.0,2.0,150,Breakfast
+Italian Bean Salad,7.0,3.0,180,Lunch
+Roasted Chicken Pita,20.0,6.0,300,Lunch
+Tofu and Vegetable Stir-Fry,12.0,9.0,220,Lunch
+Salmon Avocado Wrap,18.0,11.0,290,Lunch
+Beet and Goat Cheese Arugula Salad,6.0,7.0,200,Lunch
+Grilled Halibut with Tomato Salsa,22.0,5.0,270,Dinner
+Vegetable and Tofu Kebabs,8.0,10.0,200,Dinner
+Chicken Alfredo Pasta,25.0,12.0,350,Dinner
+Roast Pork with Apples and Root Vegetables,27.0,15.0,400,Dinner
+Spicy Shrimp Tacos,20.0,8.0,320,Dinner
+Parmesan Zucchini Bites,5.0,4.0,100,Snacks
+Apple and Nut Butter Slices,2.0,8.0,150,Snacks
+Cottage Cheese with Raspberry Compote,9.0,2.0,110,Snacks
+Olive and Cheese Stuffed Mini Peppers,3.0,6.0,90,Snacks
+Roasted Chickpeas with Lime and Chili,6.0,3.0,120,Snacks
+Blackberry Yogurt Parfait,6.0,3.0,180,Breakfast
+Ham and Swiss Omelet,15.0,12.0,220,Breakfast
+Pineapple Coconut Smoothie,5.0,1.0,150,Breakfast
+Multigrain Waffles with Maple Syrup,4.0,5.0,200,Breakfast
+Avocado Citrus Salad,3.0,7.0,170,Breakfast
+Chicken Taco Salad,20.0,8.0,300,Lunch
+Portobello and Quinoa Bowl,8.0,6.0,250,Lunch
+Tuna Melt Panini,18.0,9.0,320,Lunch
+Greek Salad with Falafel,7.0,10.0,200,Lunch
+Spicy Lentil Soup,9.0,3.0,210,Lunch
+Stuffed Acorn Squash,5.0,2.0,180,Dinner
+Lemon Herb Tilapia,21.0,6.0,190,Dinner
+Veggie Lasagna,12.0,7.0,270,Dinner
+Beef Yakitori,18.0,7.0,260,Dinner
+Mushroom Risotto,4.0,8.0,210,Dinner
+Cherry Tomatoes with Mozzarella,6.0,4.0,100,Snacks
+Mixed Nuts and Raisins,5.0,9.0,150,Snacks
+Carrot and Hummus Platter,3.0,5.0,120,Snacks
+Greek Yogurt Pop,4.0,0.0,90,Snacks
+Baked Apple Chips,0.0,0.0,60,Snacks
