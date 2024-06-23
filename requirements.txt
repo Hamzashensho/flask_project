@@ -1,6 +1,6 @@
 pandas
 Flask
-joblib
+joblib==1.4.2
 flask_cors
 Gunicorn
-scikit-learn
+scikit-learn==1.2.2
